@@ -7,10 +7,9 @@ http://en.wikipedia.org/wiki/Mandelbrot_set
 
 Install
 ======
-::
-    python setup.py build
-    python setup.py install
-::
+    * python setup.py build
+    * python setup.py install
+
 
 ::
 
