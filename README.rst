@@ -1,11 +1,13 @@
 ========
-Octogit
+Mandelbrot
 ========
 
-This repository has been created with Octogit.
 
-.. image:: http://myusuf3.github.com/octogit/assets/img/readme_image.png
+Applying the Mandelbrot algorithm to python and C.
+http://en.wikipedia.org/wiki/Mandelbrot_set
 
-Author
+Install
 ======
-Mahdi Yusuf (@myusuf3)
+
+python setup.py build
+python setup.py install
